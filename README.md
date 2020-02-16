@@ -5,6 +5,7 @@ This is Simple MyRetrofit&amp;Gson Test.
   * Gson Converter : https://github.com/square/retrofit/tree/master/retrofit-converters/gson
   * Retrofit2 : https://square.github.io/retrofit/
   * Glide : https://github.com/bumptech/glide
+  * JSON to Kotlin Class : https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-
   
  
  * Target JSON : https://reqres.in/api/users/2
