@@ -20,8 +20,8 @@ This is Simple MyRetrofit&amp;Gson Test.
       "last_name":"Weaver",
       
       "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
-      
-        }
+    }
+    
     
 해당 JSON 형식 데이터를 GSON Converter로 변환하여 dataClass 형식으로 받아 response의 Body에서 이미지 경로를 가져와 Glide로 적용시킵니다.
 
