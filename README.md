@@ -40,3 +40,6 @@ service.listUser()?.enqueue(object : Callback<singleUser> {
     }
 })
 ```
+
+![test](https://user-images.githubusercontent.com/55890012/74604927-350e3a80-5106-11ea-9a78-110ff190da75.PNG)
+
